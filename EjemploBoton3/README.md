@@ -25,8 +25,8 @@ Para obtener la documentación completa de la clase InterruptIn, clic [aqui](htt
 
 ## Ejemplo del código
 
-Este ejemplo de código es una alternativa al [Ejemplo 2](https://github.com/crelec/EjemploBoton2) en donde se mostró el problema de los rebotes en los botones,
-Por lo tanto el [montaje](https://github.com/crelec/EjemploBoton2#montaje) va a ser el mismo.
+Este ejemplo de código es una alternativa al [Ejemplo 2](https://github.com/crelec/Ejemplos-MBED/tree/main/EjemploBoton2) en donde se mostró el problema de los rebotes en los botones,
+Por lo tanto el [montaje](https://github.com/crelec/Ejemplos-MBED/tree/main/EjemploBoton2#montaje) va a ser el mismo.
 
 La gran diferencia entre esta alternativa y el Ejemplo 2 es que, en este ejemplo, el microcontrolador realiza la acción de contar y actualizar los pines de 
 salida cuando se detecta un flanco de bajada en el pin `PC_13` osea una sola lectura. Es decir, cuando se detecta que el pin pasa de un voltaje alto a un voltaje bajo. Sin embargo, 
