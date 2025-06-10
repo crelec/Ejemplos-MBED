@@ -15,7 +15,7 @@ detecte un flanco ascendente  (de bajo a alto) en el pin especificado.
 detecte un flanco descendente  (de alto a bajo) en el pin especificado.
 
 - `pin.mode(Tipo de entrada)` : Este método se utiliza para establecer la resistencia de entrada de la interrupción. Los parámetros disponibles 
-son [`PullUp`](https://github.com/crelec/EjemploBoton1#resistencia-pull-up), [`PullDown`](https://github.com/crelec/EjemploBoton1#resistencia-pull-down) y `PullNone`.
+son [`PullUp`](https://github.com/crelec/Ejemplos-MBED/tree/main/EjemploBoton1#resistencia-pull-up), [`PullDown`](https://github.com/crelec/Ejemplos-MBED/tree/main/EjemploBoton1#resistencia-pull-down) y `PullNone`.
 
 Es importante saber que utilizar estos métodos se pueden ahorrar si declaramos inicialmente los parámetros al crear un objeto de la clase **InterruptIn**.
 
