@@ -36,3 +36,4 @@
 * **Ejemplo** Control por comunicación serial de potenciometro digital X9C103 usando RTOS.[Ver -> GitHub](https://github.com/crelec/Ejemplos-MBED/tree/main/Pot-Digital)
 ## Aplicación Max7219.
 * **Ejemplo** Uso Max7219 en display de siete segmentos.[Ver -> GitHub](https://github.com/crelec/Ejemplos-MBED/tree/main/Ejemplo-Max7219-7segmentos)
+* ![image](https://github.com/ceroma1/VHDL-Basys3/assets/49888643/a87a2e6d-104a-49c5-a9e1-631fd0fc7bea)
